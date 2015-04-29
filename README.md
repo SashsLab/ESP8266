@@ -14,4 +14,6 @@ ESP8266 altium PCB and SCH lib
 - ESP8266:ESP-11  [Work In Progress]
 - ESP8266:ESP-12  [Work In Progress]
 
+Thanks to AI-Thinker,
+
 
